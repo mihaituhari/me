@@ -127,7 +127,6 @@ if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'http') {
                         <li class="onepage"><a href="#works">work</a></li>
                         <li class="onepage"><a href="#testimonials">testimonials</a></li>
                         <li class="onepage"><a href="#personal-projects">personal projects</a></li>
-                        <li class="onepage"><a href="#contact">contact</a></li>
                     </ul>
                 </div>
             </div>
