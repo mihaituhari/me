@@ -109,7 +109,6 @@ if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'http') {
             <li><a href="#works">work</a></li>
             <li><a href="#testimonials">testimonials</a></li>
             <li><a href="#personal-projects">personal projects</a></li>
-            <li><a href="#contact">contact</a></li>
         </ul>
     </div>
     <div id="ct-js-wrapper" class="ct-pageWrapper">
@@ -162,7 +161,6 @@ if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'http') {
         include('_works.php');
         include('_testimonials.php');
         include('_personal_projects.php');
-        include('_contact.php');
         ?>
 
         <div class="container"></div>
