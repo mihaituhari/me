@@ -39,7 +39,7 @@ $skills = [
                         <td>HTML, CSS, JavaScript</td>
                     </tr>
                     <tr>
-                        <td>VueJS, Angular, jQuery, Bootstrap, Bower, Grunt, Gulp and much more</td>
+                        <td>VueJS, Angular, jQuery, Bootstrap, Bower, Grunt, Gulp <small>(and much more)</small></td>
                     </tr>
                 </table>
 
