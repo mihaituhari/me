@@ -1,6 +1,6 @@
 ﻿<?php
 if ($_SERVER['HTTP_X_FORWARDED_PROTO'] == 'http') {
-    header('Location: https://mihai.tuhari.ro/me/');
+    header('Location: https://mihai.tuhari.ro/');
     exit;
 }
 ?><!DOCTYPE html>

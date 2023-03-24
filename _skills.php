@@ -31,7 +31,7 @@ $skills = [
         <div class="row">
             <div class="col-md-6">
                 <table>
-                    <caption class="text-left ct-u-paddingBottom20">Front-end development</caption>
+                    <caption class="text-left ct-u-paddingBottom20">Frontend development</caption>
                     <tr>
                         <th></th>
                     </tr>
@@ -39,12 +39,12 @@ $skills = [
                         <td>HTML, CSS, JavaScript</td>
                     </tr>
                     <tr>
-                        <td>Angular, jQuery, Bootstrap, Bower, Grunt, Gulp and much more</td>
+                        <td>VueJS, Angular, jQuery, Bootstrap, Bower, Grunt, Gulp and much more</td>
                     </tr>
                 </table>
 
                 <table>
-                    <caption class="text-left ct-u-paddingBottom20">Back-end development</caption>
+                    <caption class="text-left ct-u-paddingBottom20">Backend development</caption>
                     <tr>
                         <th></th>
                     </tr>
@@ -69,15 +69,40 @@ $skills = [
                 </table>
 
                 <table>
-                    <caption class="text-left ct-u-paddingBottom20">Subversioning</caption>
+                    <caption class="text-left ct-u-paddingBottom20">Even more</caption>
                     <tr>
                         <th></th>
                     </tr>
                     <tr>
-                        <td>GIT, SVN</td>
+                        <td>Extensive remote-working history</td>
+                    </tr>
+                    <tr>
+                        <td>Leadership experience</td>
+                    </tr>
+                    <tr>
+                        <td>Remote team management experience</td>
+                    </tr>
+                    <tr>
+                        <td>Atlassian software power user <small>(Jira, Confluence)</small></td>
+                    </tr>
+                    <tr>
+                        <td>Team player</td>
+                    </tr>
+                    <tr>
+                        <td>Agile methodology fan</td>
+                    </tr>
+                    <tr>
+                        <td>Colleborative work & CR <small>(Code Review)</small></td>
+                    </tr>
+                    <tr>
+                        <td>Familiar to CI/CD <small>(Continous Integration/Delivery)</small></td>
+                    </tr>
+                    <tr>
+                        <td>Familiar with SOA <small>(Service Oriented Arhitecture)</small></td>
                     </tr>
                 </table>
-
+            </div>
+            <div class="col-md-6">
                 <table>
                     <caption class="text-left ct-u-paddingBottom20">API / 3rd Party Integration</caption>
                     <tr>
@@ -99,18 +124,14 @@ $skills = [
                         <td>Credit Card Payment Gateways</td>
                     </tr>
                 </table>
-            </div>
-            <div class="col-md-6">
+
                 <table>
                     <caption class="text-left ct-u-paddingBottom20">Other geeky skills</caption>
                     <tr>
                         <th></th>
                     </tr>
                     <tr>
-                        <td>Advanced Adobe Photoshop/Fireworks Skills</td>
-                    </tr>
-                    <tr>
-                        <td>Medium Web Design Skills</td>
+                        <td>Complex Custom Development</td>
                     </tr>
                     <tr>
                         <td>Google PageSpeed Optimization</td>
@@ -122,22 +143,13 @@ $skills = [
                         <td>Responsive CSS Coding</td>
                     </tr>
                     <tr>
-                        <td>WordPress Installation</td>
+                        <td>WordPress <small>(setup, customization)</small></td>
                     </tr>
                     <tr>
-                        <td>WordPress Themes and Plugins Installation</td>
+                        <td>Ecommerce Implementation</td>
                     </tr>
                     <tr>
-                        <td>WordPress Customization</td>
-                    </tr>
-                    <tr>
-                        <td>Online Shops Implementation</td>
-                    </tr>
-                    <tr>
-                        <td>Online Applications Development</td>
-                    </tr>
-                    <tr>
-                        <td>Search Engine Optimization (SEO)</td>
+                        <td>Search Engine Optimization <small>(SEO)</small></td>
                     </tr>
                 </table>
 
@@ -148,6 +160,9 @@ $skills = [
                     </tr>
                     <tr>
                         <td>Always happy and optimistic</td>
+                    </tr>
+                    <tr>
+                        <td>Travelling. A lot! 👉 <a href="https://www.instagram.com/mihaituhari/" target="_blank">instagram.com/mihaituhari/</a></td>
                     </tr>
                     <tr>
                         <td>Skateboarding
@@ -163,12 +178,6 @@ $skills = [
                         <td>Off-Road <span class="skill-info">(see <a href="http://www.rescue4x4.ro/" target="_blank"/>Rescue 4x4</a>
                                 project)</span></td>
                     </tr>
-                    <tr>
-                        <td>Photography
-                            <span class="skill-info">(see my dedicated <a href="https://www.facebook.com/tuharifoto" target="_blank"/>Facebook</a>
-                                page)</span></td>
-                    </tr>
-
                 </table>
             </div>
         </div>

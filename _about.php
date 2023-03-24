@@ -18,20 +18,40 @@
             <div class="col-sm-4 col-md-4 ct-u-paddingBottom40 center">
                 <img src="assets/images/main/content/me.png" alt="Mihai Tuhari">
             </div>
-            <div class="col-sm-4 col-md-4 ct-u-paddingBottom40"><p>I started the web development journey back in 2003,
-                    at an early age. Since then, I am constantly tackling new and challenging requests, tasks and
-                    technologies. For the near future I want to gain more and more experience in the field and create an
-                    impressive portfolio over years.<br/><br/>I have a wide range of web development skills, covering
-                    both front-end and back-end development.<br/><br/>PHP, MySQL, HTML, CSS, JavaScript, Angular,
-                    jQuery, Bower, Grunt, Elasticsearch, Kibana, WebSockets, RabbitMQ, Laravel, Google Maps API,
-                    Braintree Payment and much more. I basically have no limit :)</p></div>
-            <div class="col-sm-4 col-md-4 ct-u-paddingBottom40"><p>I have long-time experience working on Laravel
-                    Framework (starting from 3.2 and up to the most recent one) as well as subversioning systems such as
-                    GIT and SVN. API integration and API development has never been a hard job for me. I can also assist
-                    installing or customizing your WordPress website.<br/><br/>I am fast, responsive and dedicated when
-                    it comes to writing great code and delivering on time.<br/><br/>See below some projects I worked on
-                    and feel free to contact me.<br><br>
-                    Greetings from Bucharest 🌴</p></div>
+            <div class="col-sm-4 col-md-4 ct-u-paddingBottom40">
+                <p>
+                    As a full-stack software engineer, my journey in web development began in 2003, during my early
+                    years.<br><br>
+
+                    Over the years, I have encountered many new and challenging situations, tasks, and technologies,
+                    which have further honed my skills in this dynamic field.<br><br>
+
+                    Looking ahead, I aspire to continue accumulating rich experiences in web development, and strive
+                    towards building a robust portfolio that speaks volumes about my expertise in this domain.<br><br>
+
+                    ⭐ <b>Specialties:</b> PHP, MySQL, Laravel, RabbitMQ, Elasticsearch, JS, API development and
+                    integrations<br><br>
+                    ⭐ <b>Also:</b> Leadership, Remote team management, Agile, Team player, Gitflow, CI
+                </p>
+            </div>
+            <div class="col-sm-4 col-md-4 ct-u-paddingBottom40">
+                <p>
+                    I have extensive experience working with Laravel, starting from version 3.2 up to the most recent releases.
+                    Custom backend development has always been my strong suit, while building and consuming APIs is second nature to me.<br><br>
+
+                    In addition to my development skills, I can offer <b>consultation</b> on project architecture and platform setup, as well as customization of WordPress websites.<br><br>
+
+                    I am <b>fast</b>, <b>responsive</b> and <b>dedicated</b> when it comes to writing great code and delivering on time.<br><br>
+
+                    Please take a look at some of the projects I've worked on below, or visit my up-to-date LinkedIn profile:<br><br>
+                    👉 <a href="https://www.linkedin.com/in/mihaituhari/" target="_blank">linkedin.com/mihaituhari</a><br><br>
+
+                    If you have any questions or would like to collaborate, don't hesitate to contact me.<br><br>
+
+                    Greetings from Bucharest, Romania,<br>
+                    or from a sunny island. 🌴
+                </p>
+            </div>
         </div>
     </div>
 </section>
