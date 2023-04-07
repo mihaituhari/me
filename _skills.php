@@ -162,7 +162,7 @@ $skills = [
                         <td>Always happy and optimistic</td>
                     </tr>
                     <tr>
-                        <td>Travelling. A lot! 👉 <a href="https://www.instagram.com/mihaituhari/" target="_blank">instagram.com/mihaituhari/</a></td>
+                        <td>Travelling. A lot! 👉 <span class="skill-info"><a href="https://www.instagram.com/mihai.tuhari/" target="_blank">instagram.com/mihai.tuhari</a></span></td>
                     </tr>
                     <tr>
                         <td>Skateboarding
