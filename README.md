@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and world explorer
 --------------------------------
 
-A lifelong geek, I started coding in 2003 with Pascal and C++, diving into the web development world ever since.
+A lifelong geek, I started coding in **2003** with Pascal and C++, diving into the web development world ever since.
 
 Over the years, I've embraced new challenges and technologies, constantly expanding my skill set.
 
