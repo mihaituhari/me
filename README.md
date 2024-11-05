@@ -4,20 +4,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and world explorer
 --------------------------------
 
-Geek since early ages, growing up with Pascal & C++, I joined the #webdev industry and started coding back in **2003**.
+A lifelong geek, I started coding in 2003 with Pascal and C++, diving into the web development world ever since.
+
+Over the years, I've embraced new challenges and technologies, constantly expanding my skill set.
+
 Since then I am constantly experiencing & tackling new challenges, as well as new technologies.
 
-When I'm not coding I am exploring the world 🌴
+When I'm not coding, I’m out exploring the world 🌴
 
 * 🌍 I'm based in Bucharest, Romania 🇷🇴
 * 🖥️ See my portfolio at [mihai.tuhari.ro](https://mihai.tuhari.ro/)
 * 🆘 I'm the founder of [Rescue4x4](https://www.rescue4x4.ro), launched in 2015
 * 🛒 I'm working with [Everli](https://www.everli.com) since 2015, currently as a Staff Engineer
+* 📩 Contact me via [LinkedIn](https://www.linkedin.com/in/mihaituhari)
 
 ### Specialties
 
 PHP, MySQL, Laravel, Elasticsearch, Redis, RabbitMQ, CSS, JavaScript, Angular, API integration & much more.
-
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mihaituhari/me/master/assets/icons/php.svg" width="36" height="36" alt="PHP" /></a>
