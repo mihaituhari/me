@@ -5,10 +5,7 @@ Web developer and world explorer
 --------------------------------
 
 A lifelong geek, I started coding in 2003 with Pascal and C++, diving into the web development world ever since.
-
 Over the years, I've embraced new challenges and technologies, constantly expanding my skill set.
-
-Since then I am constantly experiencing & tackling new challenges, as well as new technologies.
 
 When I'm not coding, I’m out exploring the world 🌴
 
