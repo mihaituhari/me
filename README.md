@@ -60,7 +60,6 @@ PHP, MySQL, Laravel, Elasticsearch, Redis, RabbitMQ, CSS, JavaScript, Angular, A
 
 ### My Github Stats
 ![Github Stats Overview](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/overview.svg)
-
 ![Github Stats Languages](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/languages.svg)
 
 [//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=mihaituhari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&#41;)
