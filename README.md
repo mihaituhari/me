@@ -54,8 +54,8 @@ PHP, MySQL, Laravel, Elasticsearch, Redis, RabbitMQ, CSS, JavaScript, Angular, A
 ------
 
 ### My Github Stats
-![Github Stats Overview](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/overview.svg)
-![Github Stats Languages](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/languages.svg)
+![Github Stats Overview](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Github Stats Languages](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 [//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=mihaituhari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&#41;)
 [//]: # (![]&#40;https://github-readme-streak-stats.herokuapp.com/?user=mihaituhari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&#41;)
