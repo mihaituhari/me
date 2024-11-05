@@ -7,6 +7,7 @@ Web developer and world explorer
 Geek since early ages, growing up with Pascal & C++, I joined the #webdev industry and started coding back in **2003**. Since then I am constantly experiencing & tackling new challenges, as well as new technologies.
 
 When I'm not coding I am exploring the world 🌴
+https://raw.githubusercontent.com/mihaituhari/me/main/assets/icons/elasticsearch.png
 
 * 🌍  I'm based in Bucharest, Romania 🇷🇴
 * 🖥️  See my portfolio at [mihai.tuhari.ro](https://mihai.tuhari.ro/)
