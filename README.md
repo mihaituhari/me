@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 Web developer and world explorer
---------------------------------
+------
 
 A lifelong geek, I started coding in **2003** with Pascal and C++, diving into the web development world ever since.
 
@@ -15,6 +15,8 @@ When I'm not coding, I’m out exploring the world 🌴
 * 🆘 I'm the founder of [Rescue4x4](https://www.rescue4x4.ro), launched in 2015
 * 🛒 I'm working with [Everli](https://www.everli.com) since 2015, currently as a Staff Engineer
 * 📩 Contact me via [LinkedIn](https://www.linkedin.com/in/mihaituhari)
+
+------
 
 ### Specialties
 
@@ -49,14 +51,7 @@ PHP, MySQL, Laravel, Elasticsearch, Redis, RabbitMQ, CSS, JavaScript, Angular, A
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mihaituhari/me/master/assets/icons/docker.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/mihaituhari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/mihai.tuhari" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/mihaituhari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/@MihaiTuhari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-</p>
+------
 
 ### My Github Stats
 ![Github Stats Overview](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/overview.svg)
@@ -65,3 +60,14 @@ PHP, MySQL, Laravel, Elasticsearch, Redis, RabbitMQ, CSS, JavaScript, Angular, A
 [//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=mihaituhari&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&#41;)
 [//]: # (![]&#40;https://github-readme-streak-stats.herokuapp.com/?user=mihaituhari&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&#41;)
 [//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=mihaituhari&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&#41;)
+
+------
+
+### Social media
+
+<p align="left">
+<a href="https://www.github.com/mihaituhari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/mihai.tuhari" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/mihaituhari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/@MihaiTuhari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+</p>
